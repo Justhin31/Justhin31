@@ -1,16 +1,37 @@
-## Hi there 👋
+ 👋 Hi, I'm James Justhin D. Niegas  
 
-<!--
-**Justhin31/Justhin31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring BSIT Student | Future Software Developer
+💻 Passionate about coding, app & web development  
+🎨 I also love drawing, painting, and writing songs  
 
-Here are some ideas to get you started:
+--------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🚀 About Me
+- 🔭 Currently learning Python, Kivy, and Web Development
+- 🏫 Studying at PUP Parañaque 
+- ⚡ Athlete | Music Lover | Creative Thinker  
+- 🌱 My goal is to build projects that combine **tech + creativity
+
+--------------------------------------------------------------------------------
+
+ 🛠️ Tech Stack
+- Languages: Python, Java, HTML, CSS  
+- Frameworks & Tools: Kivy, KivyMD, Git, SQLite  
+- Other Skills: UI/UX Design, Songwriting 🎶  
+
+--------------------------------------------------------------------------------
+
+ 📂 Featured Projects 
+- 🤖 Facial Recognition Attendance – Using Python, OpenCV, and KivyMD  
+
+(More projects coming soon!) 
+
+--------------------------------------------------------------------------------
+
+ 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/jamesjusthin-d-niegas-25a67637b/
+- 📧 Email: jamesjutsthindniegas@gmail.com  
+
+
+
+⭐ Thanks for visiting my profile! Feel free to check out my projects or connect with me. 
