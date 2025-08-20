@@ -10,7 +10,7 @@
 - 🔭 Currently learning Python, Kivy, and Web Development
 - 🏫 Studying at PUP Parañaque 
 - ⚡ Athlete | Music Lover | Creative Thinker  
-- 🌱 My goal is to build projects that combine **tech + creativity
+- 🌱 My goal is to build projects that combine tech + creativity
 
 --------------------------------------------------------------------------------
 
